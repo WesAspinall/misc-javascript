@@ -19,6 +19,6 @@ leader2imgs.forEach((item, index) => {
 
 let people_who_are_missing_images = missing_leader_1_imgs.concat(missing_leader_2_imgs)
 
-console.log(missing_images.sort())
+console.log(people_who_are_missing_images.sort())
 
 
